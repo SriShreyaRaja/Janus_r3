@@ -2,4 +2,4 @@
 
 #depencies: pynmea2 pyserial matplotlib
 
-#works both on arduino and data
+#works both on input from GNSS Module, arduino and simulated test data
